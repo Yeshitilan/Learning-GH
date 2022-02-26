@@ -9,4 +9,5 @@ import Foundation
 
 struct MyModel {
     var name:String = "my name"
+    var ager:String = "age"
 }
